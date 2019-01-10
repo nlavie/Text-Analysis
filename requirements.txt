@@ -1,0 +1,12 @@
+numpy
+pandas
+re
+nltk
+gensim
+six
+itertools
+Numbers
+matplotlib
+datetime
+pickle
+sklearn
